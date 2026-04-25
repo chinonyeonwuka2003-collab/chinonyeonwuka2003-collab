@@ -1,4 +1,4 @@
-# Hi there, I'm Augustina Onwuka Chinonye 👋
+# Hi there, I'm Augustina Chinonye Onwuka 👋
 
 <div align="center">
 
