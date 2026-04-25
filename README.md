@@ -1,62 +1,83 @@
-## Hi there, I'm [Augustina] 👋
+# Hi there, I'm Augustina Onwuka Chinonye 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Power+BI+Developer" alt="Typing SVG" />
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Turning+Data+Into+Meaningful+Insights;Business+Intelligence+Enthusiast;Power+BI+Developer" alt="Typing SVG" />
+
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/augustina-onwuka-392083396/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:chinonyeonwuka2003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/augustina-onwuka-392083396/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://www.tiktok.com/@tina_the_data_analayst?_r=1&_t=ZS-95pg00Mt5YQ">
+    <img src="https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok" />
+  </a>
+
+  <a href="mailto:chinonyeonwuka2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst with a strong interest in helping business and companies make data-driven decisions. I enjoy working with data to uncover trends, solve problems and present insights through clear and engaging visualization.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+## 📌 About Me
 
-When I'm not working with data, I enjoy [Creating content, Researching, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I am a *Data Analyst* with an academic background in *Accounting, Finance, and Business*, combining strong quantitative skills with analytical thinking to transform raw data into actionable business insights.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+My passion for analytics comes from uncovering patterns and trends in data that others may overlook—helping businesses make smarter, data-driven decisions.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+My focus is on building dashboards that drive strategic decisions, analyzing business performance, and delivering insights that improve operational efficiency and customer understanding.
 
-## 🌱 Currently Learning 
+When I'm not working with data, I enjoy *researching, creating content, and mentoring others*. I value the "aha!" moment when data reveals something meaningful and impactful.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+---
 
-## 🛠️ Technical Skillset
+## 🚀 What I'm Currently Working On
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- *E-Commerce Sales Dashboard:* Building an interactive Power BI dashboard to analyze customer behavior, product performance, and operational efficiency.
+
+---
+
+## 📚 Currently Learning
+
+- SQL Optimization & Advanced Querying  
+- Python for Data Analysis & Automation  
+
+---
+
+## 🛠 Technical Skillset
 
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Intermidiate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-#### Programming & Automation
+#### Programming & Databases
 <p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+---
+
+## 🎯 Professional Strengths
+
+- Financial & Business Analysis  
+- Dashboard Development  
+- Data Storytelling  
+- KPI Tracking & Reporting  
+- Trend & Performance Analysis  
+
+---
+
+## 📫 Let's Connect
+
+I’m open to collaborating on data projects, analytics opportunities, and professional networking.
+
+- *Email:* chinonyeonwuka2003@gmail.com  
+- *TikTok:* @tina_the_data_analayst  
