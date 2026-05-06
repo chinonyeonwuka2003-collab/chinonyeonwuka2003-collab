@@ -37,8 +37,7 @@ When I'm not working with data, I enjoy *researching, creating content, and ment
 
 ## 🚀 Projects 
 
-- *E-Commerce Sales Dashboard:* Building an interactive Power BI dashboard to analyze customer behavior, product performance, and operational efficiency.
-- (https://github.com/chinonyeonwuka2003-collab/ECOMMERCE-SALES-ANALYSIS)
+- E-commerce Sales Dashboard: Building an interactive Power BI dashboard to analyze customer behavior, product performance, and operational efficiency. (https://github.com/chinonyeonwuka2003-collab/ECOMMERCE-SALES-ANALYSIS)
 
 ---
 
